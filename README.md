@@ -1,6 +1,6 @@
 # iosgame
 
-Created a version of flappy bird using swift to code it.
+Created a version of flappy bird using swift to code it in xcode using jpegs for the bird and pipe images. I also added a restart feature once a game ends and a score tracker to update the score once you go through a pipe.
 
 <img width="472" alt="Screenshot 2025-03-20 at 11 48 21 PM" src="https://github.com/user-attachments/assets/c618076e-a0f5-4351-97ff-a931d8689abb" />
 
